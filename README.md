@@ -1,4 +1,10 @@
 # Go 遊び場
+
+## 共通
+
+* `gibo` で Go 言語用の `.gitignore` ファイルを自動生成する
+  * ` gibo dump Go 1> .gitignore`
+
 ## Go Modules のはじめかた
 
 ### クイックスタート
